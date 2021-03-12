@@ -1,1 +1,2 @@
-This project was bootstrapped with [Feathers UI](https://feathersui.com/learn/haxe-openfl/).
+# Cardinal
+Cross platform. Red. That's about it (for now)
